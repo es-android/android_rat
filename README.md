@@ -39,7 +39,7 @@ Android Rat provides complete device management and monitoring capabilities:
 ### Main Dashboard
 The main control panel displays all available features in an intuitive grid layout. Select any feature to access its functionality.
 
-![Control Panel Main Dashboard](GUI TO BE ADDED HERE)
+![Control Panel Main Dashboard](/img/gui.PNG)
 
 ### Feature Access
 Once you select a feature, a dedicated interface opens for that specific function. Here's an example of the VNC (Remote Desktop) feature:
