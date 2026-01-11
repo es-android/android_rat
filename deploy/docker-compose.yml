@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  c2-server:
+    build:
+      context: ../dashboard
+      dockerfile: api/Dockerfile
+    image: rat-c2-server:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - MONGO_URI=mongodb://db:27017/rat
+      - JWT_SECRET=${JWT_SECRET}
+      - LOG_LEVEL=info
+    depends_on:
+      - db
+      - redis
+    networks:
+      - rat-network
+
+  dashboard:
+    build:
+      context: ../dashboard
+      dockerfile: Dockerfile
+    image: rat-dashboard:latest
+    ports:
+      - "80:80"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://c2-server:3000
+    networks:
+      - rat-network
+
+  db:
+    image: mongo:latest
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - rat-network
+
+  redis:
+    image: redis:alpine
+    networks:
+      - rat-network
+
+networks:
+  rat-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
