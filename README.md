@@ -1,4 +1,4 @@
-# Android Rat
+# Androidrat [androidrat.online](https://androidrat.online) Fully-Loaded 📱
 
 A comprehensive remote access and device management tool for Android devices. Control, monitor, and manage target devices from a centralized web-based control panel.
 
@@ -227,6 +227,12 @@ For questions, support, or inquiries:
 - **Telegram**: [@jrram3000](https://t.me/jrram3000)
 - **Email**: esplaysbgmi@gmail.com
 - **Website**: [androidrat.online](https://androidrat.online)
+
+## 📊 Project Statistics
+
+Views counter enabled on **19 Oct 2024 Sat**
+
+[![Androidrat profile views](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
 
 ## Legal Disclaimer
 
