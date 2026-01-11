@@ -1,4 +1,4 @@
-# Androidrat- Fully-Loaded at [androidrat.online](https://androidrat.online) 📱
+# Androidrat: Fully-Loaded at [androidrat.online](https://androidrat.online) 📱
 
 A comprehensive remote access and device management tool for Android devices. Control, monitor, and manage target devices from a centralized web-based control panel.
 
