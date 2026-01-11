@@ -41,7 +41,7 @@ The main control panel displays all available features in an intuitive grid layo
 
 <p align="center">
   <a href="https://androidrat.online/">
-    <img src="/img/gui1.PNG" width="45%" />
+    <img src="/img/gui.PNG" width="45%" />
   </a>
   <a href="https://androidrat.online/">
     <img src="/img/gui2.PNG" width="45%" />
