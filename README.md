@@ -22,8 +22,7 @@ By using Android Rat, you agree to use it only for lawful purposes and accept fu
 
 ### Main Dashboard
 The main control panel displays all available features in an intuitive grid layout. Select any feature to access its functionality.
-
-![Control Panel Main Dashboard](<p align="center">
+<p align="center">
   <a href="https://androidrat.online/">
     <img src="/img/gui.PNG" width="45%" />
   </a>
@@ -31,7 +30,6 @@ The main control panel displays all available features in an intuitive grid layo
     <img src="/img/gui2.PNG" width="45%" />
   </a>
 </p>
-)
 
 ### Feature Access
 Once you select a feature, a dedicated interface opens for that specific function. Here's an example of the VNC (Remote Desktop) feature:
