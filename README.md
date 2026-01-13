@@ -18,22 +18,6 @@ The framework is built on a microservices-oriented architecture, ensuring high a
 By using Android Rat, you agree to use it only for lawful purposes and accept full legal responsibility for your actions.
 
 ---
-
-## What It Does
-
-Android Rat provides complete device management and monitoring capabilities:
-
-- **Remote Desktop Access (VNC)** - View and control the device screen in real-time
-- **File Management** - Browse, upload, and download files from the target device
-- **Application Control** - View installed applications and manage them
-- **Communication Monitoring** - Access call logs, SMS messages, and contacts
-- **System Information** - Monitor device specs, battery, storage, and performance
-- **Multimedia Control** - Access camera, recordings, photos, and media files
-- **Device Interaction** - Send SMS, control vibrator, flashlight, and notifications
-- **Advanced Features** - Keylogger, clipboard monitoring, text-to-speech, shell commands
-- **Security Tools** - Phishing data collection, admin panel access, device spoofing
-- **Crypto Monitoring** - Track cryptocurrency wallets and transactions
-
 ## Control Panel Interface
 
 ### Main Dashboard
