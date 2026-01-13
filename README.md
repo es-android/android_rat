@@ -1,10 +1,6 @@
 # Androidrat: Fully-Loaded at [androidrat.online](https://androidrat.online) 📱
 
-A comprehensive remote access and device management tool for Android devices. Control, monitor, and manage target devices from a centralized web-based control panel.
-
-## Overview
-
-Android Rat is a powerful tool designed for security professionals, penetration testers, and device administrators. Once the payload is installed on a target device, you gain complete remote access and control through an intuitive web interface.
+A comprehensive remote access and device management tool for Android devices. Control, monitor, and manage targeted devices from a centralized web-based control panel.
 
 ## 🚀 Architecture
 
@@ -15,25 +11,7 @@ The framework is built on a microservices-oriented architecture, ensuring high a
 - **Cross-Platform Agents**: Native implementations for Android (Kotlin), iOS (Swift), and Windows (C#).
 - **Custom Protocol**: Optimized binary protocol with HMAC-SHA256 integrity checks.
 
-## 🛠 Tech Stack
-
-| Component | Technology |
-|-----------|------------|
-| Backend | Node.js, Express, Socket.io, Redis |
-| Frontend | React, Next.js, TypeScript, TailwindCSS |
-| Database | MongoDB (Persistence), Redis (Caching) |
-| Android | Kotlin, Coroutines, Retrofit, WorkManager |
-| Windows | .NET 6, C#, Windows Services |
-| iOS | Swift, Combine, BackgroundTasks |
-| DevOps | Docker, GitHub Actions, Terraform |
-
-
 ## ⚠️ Educational Purpose only.
-
-**IMPORTANT LEGAL NOTICE**: This tool is intended **ONLY** for:
-- Authorized security testing and penetration testing
-- Educational purposes with explicit consent
-- Devices you own or have written authorization to access
 
 **Unauthorized access to computer systems is illegal.** Users are solely responsible for ensuring they have proper authorization before using this tool on any device. Unauthorized installation or use may violate local, state, and federal laws including the Computer Fraud and Abuse Act (CFAA) and similar legislation in other jurisdictions.
 
