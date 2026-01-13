@@ -11,7 +11,7 @@ The framework is built on a microservices-oriented architecture, ensuring high a
 - **Cross-Platform Agents**: Native implementations for Android (Kotlin), iOS (Swift), and Windows (C#).
 - **Custom Protocol**: Optimized binary protocol with HMAC-SHA256 integrity checks.
 
-## ⚠️ Educational Purpose only.
+## ⚠️ Educational Purposes only.
 
 ---
 ## Control Panel Interface
