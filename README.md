@@ -86,13 +86,6 @@ Android Rat supports multiple installation methods across different platforms. C
 | **System Info** | View detailed device specifications |
 | **App Management** | List and control installed applications |
 
-## System Requirements
-
-- **Target Device**: Android 7.0 to 15, iOS 12 to 26.2, Windows 7 to 11
-- **Control Panel Access**: Modern web browser (Chrome, Firefox, Safari, Edge)
-- **Internet Connection**: Required for remote access
-- **Authorization**: Proper authorization required for all target devices
-
 ## Getting Started
 
 1. Visit [androidrat.online](https://androidrat.online)
@@ -115,23 +108,5 @@ For questions, support, or inquiries:
 Views counter enabled on **19 Oct 2024 Sat**
 
 [![Androidrat profile views](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
-
-## Legal Disclaimer
-
-This tool is provided for authorized security testing, penetration testing, and legitimate device management purposes only. 
-
-**Users are solely responsible for:**
-- Obtaining proper authorization before using this tool on any device
-- Complying with all applicable laws and regulations
-- Understanding that unauthorized access is illegal
-- Any consequences resulting from misuse of this tool
-
-Unauthorized access to computer systems is illegal and may result in criminal charges. By using Android Rat, you acknowledge that you have read this disclaimer and agree to use the tool only for lawful purposes.
-
-## License
-
-All rights reserved. For licensing information, visit [androidrat.online](https://androidrat.online)
-
----
 
 **Android Rat** - Professional Device Management & Remote Access Tool
