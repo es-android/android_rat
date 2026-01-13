@@ -13,10 +13,6 @@ The framework is built on a microservices-oriented architecture, ensuring high a
 
 ## ⚠️ Educational Purpose only.
 
-**Unauthorized access to computer systems is illegal.** Users are solely responsible for ensuring they have proper authorization before using this tool on any device. Unauthorized installation or use may violate local, state, and federal laws including the Computer Fraud and Abuse Act (CFAA) and similar legislation in other jurisdictions.
-
-By using Android Rat, you agree to use it only for lawful purposes and accept full legal responsibility for your actions.
-
 ---
 ## Control Panel Interface
 
@@ -39,80 +35,6 @@ Once you select a feature, a dedicated interface opens for that specific functio
 ## Payload Installation Methods
 
 Android Rat supports multiple installation methods across different platforms. Choose the method that best suits your target device.
-
-### Android Installation
-
-#### Method 1: Direct APK Installation
-1. Build the Android payload from the control panel
-2. Transfer the APK file to the target device
-3. Enable "Unknown Sources" in device settings (Settings → Security)
-4. Open the APK file and tap "Install"
-5. Once installed, the device automatically connects to your control panel
-
-#### Method 2: PDF Exploit Installation
-1. Generate the PDF exploit payload from the control panel
-2. Send the PDF file to the target device via email or messaging
-3. When the target opens the PDF, the exploit automatically triggers
-4. The payload installs silently in the background
-5. Device appears online in your control panel
-
-**Note**: PDF exploit method may require specific Android versions (typically Android 5-11 for optimal compatibility).
-
----
-
-### iOS Installation
-
-#### Method 1: Profile Installation (MDM)
-1. Generate the iOS profile payload
-2. Send the profile link to the target device
-3. Open Settings → General → VPN & Device Management
-4. Tap the profile and select "Install"
-5. Confirm the installation when prompted
-6. Device connects to control panel automatically
-
-#### Method 2: TestFlight Installation
-1. Generate the TestFlight build from the control panel
-2. Invite the target user to the TestFlight beta
-3. Target user opens TestFlight app and accepts the invitation
-4. App installs automatically
-5. Device appears in your control panel
-
-#### Method 3: iCloud Installation
-1. Generate the iCloud-compatible payload
-2. Add the target Apple ID to your iCloud account
-3. Use "Find My" or Apple's device management features
-4. Payload installs silently through iCloud sync
-5. Device connects to control panel
-
-**Note**: iOS methods require different approaches due to Apple's security restrictions. Profile and TestFlight methods are most reliable.
-
----
-
-### Windows Installation
-
-#### Method 1: Double-Click Executable
-1. Generate the Windows executable payload (.exe)
-2. Transfer the .exe file to the target computer
-3. Double-click the executable file
-4. Windows may show a security warning - target user clicks "Run anyway"
-5. Payload installs and device appears online in your control panel
-
-#### Method 2: Silent Installation
-1. Generate the silent installer variant
-2. Use Group Policy or remote execution to run the installer
-3. Payload installs without user interaction
-4. Device connects automatically
-
-#### Method 3: Trojanized Documents
-1. Generate the payload-embedded document (Word, Excel, PDF)
-2. Send to target via email
-3. When opened, macro/exploit triggers automatically
-4. Payload installs in background
-5. Device connects to control panel
-
-**Note**: Windows Defender and antivirus may flag the executable. Ensure proper authorization before deployment.
-
----
 
 ## How to Use
 
@@ -166,7 +88,7 @@ Android Rat supports multiple installation methods across different platforms. C
 
 ## System Requirements
 
-- **Target Device**: Android 5.0+, iOS 12+, Windows 7+
+- **Target Device**: Android 7.0 to 15, iOS 12 to 26.2, Windows 7 to 11
 - **Control Panel Access**: Modern web browser (Chrome, Firefox, Safari, Edge)
 - **Internet Connection**: Required for remote access
 - **Authorization**: Proper authorization required for all target devices
