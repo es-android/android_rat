@@ -30,7 +30,7 @@ The main control panel displays all available features in an intuitive grid layo
 ### Feature Access
 Once you select a feature, a dedicated interface opens for that specific function. Here's an example of the VNC (Remote Desktop) feature:
 
-![VNC Remote Desktop Session](img/slide4.png/>)
+![VNC Remote Desktop Session](img/slide4.png)
 
 ## Payload Installation Methods
 
